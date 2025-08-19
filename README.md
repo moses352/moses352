@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**moses352/moses352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi there 👋Am moses owino
+I'm currently working on computer programming 
+I'm currently learning Linux,html,git and github
+I'm looking to collaborate on Web development 
+I'm looking for help with other colleagues 
+Ask me about technology 
+How to reach me 0743760595
+pronouns:there/their 
+Fun fact:I love sleeping 
+- 
 -->
