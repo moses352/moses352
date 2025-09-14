@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Timetable</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h2>Weekly Timetable</h2>
+  <table class="timetable">
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>9:00 - 10:00</td>
+        <td>Math</td>
+        <td>English</td>
+        <td>Physics</td>
+        <td>Chemistry</td>
+        <td>Biology</td>
+      </tr>
+      <tr>
+        <td>10:00 - 11:00</td>
+        <td>English</td>
+        <td>Math</td>
+        <td>Chemistry</td>
+        <td>Biology</td>
+        <td>Physics</td>
+      </tr>
+      <tr>
+        <td>11:00 - 12:00</td>
+        <td>Physics</td>
+        <td>Biology</td>
+        <td>Math</td>
+        <td>English</td>
+        <td>Chemistry</td>
+      </tr>
+      <!-- Add more rows as needed -->
+    </tbody>
+  </table>
+</body>
+</html>
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h2 {
+  text-align: center;
+}
+
+.timetable {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px auto;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.timetable th,
+.timetable td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.timetable th {
+  background-color: #007BFF;
+  color: white;
+}
+
+.timetable tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
